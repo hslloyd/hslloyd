@@ -7,8 +7,8 @@
 - XX
 
 ### Organizations: 
-- {[https://cogtoolslab.github.io/about.html](Cognitive Tools Lab)} 
-- {[https://pilegard.ucsd.edu/](Pedagogy and Science of Instruction Lab)}  
+- [https://cogtoolslab.github.io/about.html](Cognitive Tools Lab) 
+- [https://pilegard.ucsd.edu/](Pedagogy and Science of Instruction Lab)  
 
 <!--
 **hslloyd/hslloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
