@@ -1,10 +1,10 @@
 ### Projects: 
-- XX
-- XX
+-  
+- CEO of the Experiment
 
 ### Research Projects: 
-- XX
-- XX
+- [What predicts learning in introductory data science courses?](https://hslloyd.github.io/assets/studies/dsp_slides.pdf)
+- [How do humans answer questions about graphs?](https://hslloyd.github.io/assets/studies/gcb_cogsci23.pdf)
 
 ### Organizations: 
 - [Cognitive Tools Lab](https://cogtoolslab.github.io/about.html) 
